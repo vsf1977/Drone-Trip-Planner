@@ -1,0 +1,30 @@
+C:\Users\vlasilfu\source\repos\Drone trip\Drone trip\bin\Debug\netcoreapp3.1\Drone trip.exe
+C:\Users\vlasilfu\source\repos\Drone trip\Drone trip\bin\Debug\netcoreapp3.1\Drone trip.deps.json
+C:\Users\vlasilfu\source\repos\Drone trip\Drone trip\bin\Debug\netcoreapp3.1\Drone trip.runtimeconfig.json
+C:\Users\vlasilfu\source\repos\Drone trip\Drone trip\bin\Debug\netcoreapp3.1\Drone trip.runtimeconfig.dev.json
+C:\Users\vlasilfu\source\repos\Drone trip\Drone trip\bin\Debug\netcoreapp3.1\Drone trip.dll
+C:\Users\vlasilfu\source\repos\Drone trip\Drone trip\bin\Debug\netcoreapp3.1\Drone trip.pdb
+C:\Users\vlasilfu\source\repos\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone trip.csprojAssemblyReference.cache
+C:\Users\vlasilfu\source\repos\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone_trip.Form1.resources
+C:\Users\vlasilfu\source\repos\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone trip.csproj.GenerateResource.cache
+C:\Users\vlasilfu\source\repos\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone trip.AssemblyInfoInputs.cache
+C:\Users\vlasilfu\source\repos\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone trip.AssemblyInfo.cs
+C:\Users\vlasilfu\source\repos\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone trip.csproj.CoreCompileInputs.cache
+C:\Users\vlasilfu\source\repos\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone trip.dll
+C:\Users\vlasilfu\source\repos\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone trip.pdb
+C:\Users\vlasilfu\source\repos\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone trip.genruntimeconfig.cache
+C:\Users\vlasilfu\OneDrive - Carvajal S.A\Escritorio\Drone trip\Drone trip\bin\Debug\netcoreapp3.1\Drone trip.exe
+C:\Users\vlasilfu\OneDrive - Carvajal S.A\Escritorio\Drone trip\Drone trip\bin\Debug\netcoreapp3.1\Drone trip.deps.json
+C:\Users\vlasilfu\OneDrive - Carvajal S.A\Escritorio\Drone trip\Drone trip\bin\Debug\netcoreapp3.1\Drone trip.runtimeconfig.json
+C:\Users\vlasilfu\OneDrive - Carvajal S.A\Escritorio\Drone trip\Drone trip\bin\Debug\netcoreapp3.1\Drone trip.runtimeconfig.dev.json
+C:\Users\vlasilfu\OneDrive - Carvajal S.A\Escritorio\Drone trip\Drone trip\bin\Debug\netcoreapp3.1\Drone trip.dll
+C:\Users\vlasilfu\OneDrive - Carvajal S.A\Escritorio\Drone trip\Drone trip\bin\Debug\netcoreapp3.1\Drone trip.pdb
+C:\Users\vlasilfu\OneDrive - Carvajal S.A\Escritorio\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone trip.csprojAssemblyReference.cache
+C:\Users\vlasilfu\OneDrive - Carvajal S.A\Escritorio\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone_trip.Form1.resources
+C:\Users\vlasilfu\OneDrive - Carvajal S.A\Escritorio\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone trip.csproj.GenerateResource.cache
+C:\Users\vlasilfu\OneDrive - Carvajal S.A\Escritorio\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone trip.AssemblyInfoInputs.cache
+C:\Users\vlasilfu\OneDrive - Carvajal S.A\Escritorio\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone trip.AssemblyInfo.cs
+C:\Users\vlasilfu\OneDrive - Carvajal S.A\Escritorio\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone trip.csproj.CoreCompileInputs.cache
+C:\Users\vlasilfu\OneDrive - Carvajal S.A\Escritorio\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone trip.dll
+C:\Users\vlasilfu\OneDrive - Carvajal S.A\Escritorio\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone trip.pdb
+C:\Users\vlasilfu\OneDrive - Carvajal S.A\Escritorio\Drone trip\Drone trip\obj\Debug\netcoreapp3.1\Drone trip.genruntimeconfig.cache
